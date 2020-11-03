@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3e669964.chunk.css",
+    "main.js": "/static/js/main.979332c3.chunk.js",
+    "main.js.map": "/static/js/main.979332c3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c3654c26.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c3654c26.js.map",
+    "static/js/2.0ded1434.chunk.js": "/static/js/2.0ded1434.chunk.js",
+    "static/js/2.0ded1434.chunk.js.map": "/static/js/2.0ded1434.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.36c38adc39f7af066d61a5b1872563c5.js": "/precache-manifest.36c38adc39f7af066d61a5b1872563c5.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.3e669964.chunk.css.map": "/static/css/main.3e669964.chunk.css.map",
+    "static/js/2.0ded1434.chunk.js.LICENSE.txt": "/static/js/2.0ded1434.chunk.js.LICENSE.txt",
+    "static/media/BeepSound.wav": "/static/media/BeepSound.988833bf.wav",
+    "static/media/App.scss": "/static/media/Righteous-Regular.490cb0e4.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3654c26.js",
+    "static/js/2.0ded1434.chunk.js",
+    "static/css/main.3e669964.chunk.css",
+    "static/js/main.979332c3.chunk.js"
+  ]
+}
